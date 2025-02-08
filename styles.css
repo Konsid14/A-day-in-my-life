@@ -1,0 +1,24 @@
+.daystart{
+    background-color:aqua;
+    color:snow;
+}
+.afterschool{
+    background-color:lightblue;
+    color:snow;
+}
+header h1{
+    text-align:center;
+    color:green;
+}
+.likecomputers{
+    color:lawngreen;
+    background-color:darkcyan;
+}
+.endday{
+    background-color:darkcyan;
+    color:lightgreen;
+}
+.goodnight{
+    color:blue;
+    text-align:center;
+}
